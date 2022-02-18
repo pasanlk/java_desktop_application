@@ -36,8 +36,6 @@ public class home extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
         jButton1 = new javax.swing.JButton();
         jButton2 = new javax.swing.JButton();
-        jButton3 = new javax.swing.JButton();
-        jButton4 = new javax.swing.JButton();
         jButton5 = new javax.swing.JButton();
         jLabel6 = new javax.swing.JLabel();
         jLabel7 = new javax.swing.JLabel();
@@ -74,24 +72,16 @@ public class home extends javax.swing.JFrame {
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 10, -1, -1));
 
         jButton1.setFont(new java.awt.Font("Tahoma", 3, 14)); // NOI18N
-        jButton1.setText("NEW");
+        jButton1.setText("CLOTHES");
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 60, -1, -1));
 
         jButton2.setFont(new java.awt.Font("Tahoma", 3, 14)); // NOI18N
-        jButton2.setText("MEN");
-        jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 60, -1, -1));
-
-        jButton3.setFont(new java.awt.Font("Tahoma", 3, 14)); // NOI18N
-        jButton3.setText("WOMEN");
-        jPanel1.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(890, 60, -1, -1));
-
-        jButton4.setFont(new java.awt.Font("Tahoma", 3, 14)); // NOI18N
-        jButton4.setText("BRANDS");
-        jPanel1.add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1020, 60, -1, -1));
+        jButton2.setText("EQUIPMENTS");
+        jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 60, -1, -1));
 
         jButton5.setFont(new java.awt.Font("Tahoma", 3, 14)); // NOI18N
-        jButton5.setText("SERIES");
-        jPanel1.add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1130, 60, -1, -1));
+        jButton5.setText("OTHERS");
+        jPanel1.add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1170, 60, -1, -1));
 
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/interfaces/icons/cdc1b1578edf44c4ce298801a98205a2.png"))); // NOI18N
         jLabel6.setText("jLabel6");
@@ -162,8 +152,6 @@ public class home extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
-    private javax.swing.JButton jButton3;
-    private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton5;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
